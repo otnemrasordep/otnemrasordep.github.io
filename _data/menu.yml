@@ -9,6 +9,8 @@ entries:
     entries:
       #- title: 
       #  url: false
+      - title: '@email-me'
+        url: mailto:pedro.pereira.sarmento@gmail.com 
       - title: '@github'
         url: https://github.com/otnemrasordep
       - title: '@twitter'
@@ -19,8 +21,12 @@ entries:
         url: https://www.wavmagazine.net/autor/psarmento/        
       - title: '@email-me'
         url: mailto:pedro.pereira.sarmento@gmail.com 
+  
+           
+  - title: who
+    url: about
 
-  - title: as time goes by
+  - title: when
     post_list: true
     url: false
     entries: false
@@ -40,10 +46,7 @@ entries:
          # - title: example page
          #   url: about     
          
-         
-         
-  - title: a bit more ABOUT ME
-    url: about
+     
   #  entries:
   #    - title: to edit this menu, edit _data/menu.yml file
   #      url: false

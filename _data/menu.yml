@@ -13,6 +13,8 @@ entries:
         url: https://twitter.com/umpedronosapato
       - title: '@soundcloud'
         url: https://soundcloud.com/umpedronosapato
+      - title: '@wavmagazine'
+        url: https://www.wavmagazine.net/autor/psarmento/        
 
   - title: as time goes by
     post_list: true
@@ -22,18 +24,18 @@ entries:
   #- title: rss
   #  url: feed.xml
   
-  - title: another list
-    url: false
-    entries:
-      - title: with subitems
-        url: false
-        entries:
-          - title: with subsubitems
-            url: false
+  #- title: another list
+  #  url: false
+  #  entries:
+  #    - title: with subitems
+  #      url: false
+  #      entries:
+  #        - title: with subsubitems
+  #         url: false
          # - title: example page
          #   url: about
   - title: a (painfully hard to write) bit more about me
     url: about
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
-        url: false
+  #  entries:
+  #    - title: to edit this menu, edit _data/menu.yml file
+  #      url: false

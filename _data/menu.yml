@@ -5,14 +5,14 @@ entries:
   - title: info
     url: false
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+      - title: All things about computers, guitar and music.
         url: false
-      - title: github
-        url: https://github.com/riggraz/no-style-please
-      - title: used by riggraz.dev
-        url: https://riggraz.dev/
+      - title: @github
+        url: https://github.com/otnemrasordep
+      - title: @twitter
+        url: https://twitter.com/umpedronosapato
 
-  - title: thoughts
+  - title: as time goes by
     post_list: true
     url: false
     entries: false

@@ -20,7 +20,7 @@ entries:
 
 
   - title: as time goes by
-    post_list: false
+    post_list: true
     url: false
     entries: false
 

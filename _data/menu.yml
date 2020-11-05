@@ -17,12 +17,12 @@ entries:
         url: https://soundcloud.com/umpedronosapato
       - title: '@wavmagazine'
         url: https://www.wavmagazine.net/autor/psarmento/        
-
+\n
   - title: as time goes by
     post_list: false
     url: false
     entries: false
-
+\n
   #- title: rss
   #  url: feed.xml
   

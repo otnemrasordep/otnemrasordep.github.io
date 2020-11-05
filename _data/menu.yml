@@ -17,7 +17,8 @@ entries:
         url: https://soundcloud.com/umpedronosapato
       - title: '@wavmagazine'
         url: https://www.wavmagazine.net/autor/psarmento/        
-
+      - title: '@email-me'
+        url: mailto:pedro.pereira.sarmento@gmail.com 
 
   - title: as time goes by
     post_list: true

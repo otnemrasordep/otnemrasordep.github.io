@@ -4,8 +4,6 @@
 
 
 entries:
-  - title: All things about computers, guitars and musics.
-    url: false
   - title: where
     url: false
     entries:

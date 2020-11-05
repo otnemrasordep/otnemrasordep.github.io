@@ -7,9 +7,9 @@ entries:
     entries:
       - title: All things about computers, guitar and music.
         url: false
-      - title: @github
+      - title: "@"github
         url: https://github.com/otnemrasordep
-      - title: @twitter
+      - title: "@"twitter
         url: https://twitter.com/umpedronosapato
 
   - title: as time goes by

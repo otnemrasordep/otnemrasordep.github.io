@@ -34,7 +34,7 @@ entries:
   #         url: false
          # - title: example page
          #   url: about
-  - title: a (painfully hard to write) bit more about me
+  - title: a (painfully hard to write) bit more ABOUT ME
     url: about
   #  entries:
   #    - title: to edit this menu, edit _data/menu.yml file

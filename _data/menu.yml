@@ -7,7 +7,7 @@ entries:
     entries:
       #- title: 
       #  url: false
-      - title: '@email-me'
+      - title: '@email'
         url: mailto:pedro.pereira.sarmento@gmail.com 
       - title: '@github'
         url: https://github.com/otnemrasordep

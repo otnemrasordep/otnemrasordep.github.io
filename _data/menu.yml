@@ -21,7 +21,7 @@ entries:
   - title: who
     url: about
 
-  - title: when
+  - title: what & when
     post_list: true
     url: false
     entries: false

@@ -1,5 +1,6 @@
 ---
 layout: post
+title: ISMIR and back again
 ---
 
 Finally had the chance to present some research at ISMIR, one of the major conferences in the field. I cannot stress more how amazing this experience was, and how welcomed this community made me feel.

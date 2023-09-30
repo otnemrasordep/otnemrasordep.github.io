@@ -4,7 +4,7 @@ title: about me
 
 ---
 
-![alt text](https://github.com/otnemrasordep/otnemrasordep.github.io/blob/master/assets/images/about_me.jpg?raw=true)
+![alt text](https://github.com/otnemrasordep/otnemrasordep.github.io/blob/master/assets/images/about_me.jpg?raw=true)  
 
   
   

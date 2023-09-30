@@ -1,6 +1,7 @@
 ---
 layout: post
 title: about me
+
 ---
 
 I started by studying guitar, both classical and electric.
@@ -10,3 +11,4 @@ Next, I ended up by doing a [MSc in Electrical and Computer Engineering at FEUP]
 Currently, my [research](https://www.researchgate.net/profile/Pedro_Sarmento9) focuses on music generation, sonification and smart cities.
 
 I volunteer for an [online music magazine](https://www.wavmagazine.net/), writing album reviews and reports about the most harsh and heavy sonories.
+

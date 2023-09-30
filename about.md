@@ -6,7 +6,7 @@ title: about me
 
 ![alt text](https://github.com/otnemrasordep/otnemrasordep.github.io/blob/master/assets/images/about_me.jpg?raw=true)  
 
-  
+<br/><br/>  
   
 I started by studying guitar, both classical and electric.
 

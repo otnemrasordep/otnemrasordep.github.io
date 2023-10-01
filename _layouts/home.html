@@ -39,52 +39,7 @@ layout: default
 
     <!-- Place the logo at the bottom of the page within a .footer container -->
     <div class="footer">
-        <img src="/assets/images/logo.png" alt="Logo" width="150" height="150">
-    </div>
-</body>
-</html>
----
-layout: default
----
-<html>
-<head>
-    <title>{{ site.title }}</title>
-    <!-- Add your CSS styles here -->
-    <style>
-        /* Style for the footer container */
-        .footer {
-            position: fixed;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            text-align: center;
-            background-color: #fff; /* Set the background color if needed */
-            padding: 10px; /* Add padding for spacing if needed */
-        }
-
-        /* Additional styles for the logo image if necessary */
-        .footer img {
-            /* Add any specific styling you want for the logo here */
-            /* For example, if you want to adjust the logo's margin */
-            margin: 5px;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>{{ site.title }}</h1>
-        {%-if site.theme_config.show_description-%}
-            <p>{{ site.description }}</p>
-        {%-endif-%}
-    </header>
-
-    {%-include menu_item.html collection=site.data.menu.entries-%}
-
-    {{ content }}
-
-    <!-- Place the logo at the bottom of the page within a .footer container -->
-    <div class="footer">
-        <img src="/assets/images/logo.png" alt="Logo" width="150" height="150">
+        <img src="/assets/images/logo.png" alt="Logo" width="45" height="45">
     </div>
 </body>
 </html>

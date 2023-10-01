@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Humas of ISMIR 2022
+title: Humans of ISMIR 2022
 ---
 
 Three years into a PhD and you inevitably start to know the community within a given field. Who’s working on what? Who is notorious for what? In my particular case, this “get to know” was severely affected by the pandemic. But not completely. Luckily, the virtual “get to know” helped significantly, and I might even say that it allowed for interactions that would otherwise be difficult via a more timid in-person approach. Despite being aware of the virtual MIR community, only last week I had the opportunity to meet the real, flesh and bone version.

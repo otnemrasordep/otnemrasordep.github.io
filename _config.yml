@@ -5,7 +5,6 @@ email: pedro.pereira.sarmento@gmail.com # email of site's author
 url: https://otnemrasordep.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
   all things about computers, guitars and musics \m/
-  ![alt text](https://github.com/otnemrasordep/otnemrasordep.github.io/blob/master/assets/images/logo.png?raw=true)  
 
 permalink: /:slug.html
 

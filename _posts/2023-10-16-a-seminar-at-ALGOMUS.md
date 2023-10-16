@@ -2,7 +2,7 @@
 layout: post
 ---
 
-Following the kindest of invitations by [[Alexandre D'Hooge]], I made a trip to Lille, France, to give a seminar for the amazing [ALGOMUS](http://algomus.fr/)team. I doubt there are many places in the whole world where my area of research would resonate so well with: not only [ALGOMUS](http://algomus.fr/)focuses mainly on symbolic music, they also have a deeply rooted interest in the tablature world.
+Following the kindest of invitations by Alexandre D'Hooge, I made a trip to Lille, France, to give a seminar for the amazing [ALGOMUS](http://algomus.fr/)team. I doubt there are many places in the whole world where my area of research would resonate so well with: not only ALGOMUS focuses mainly on symbolic music, they also have a deeply rooted interest in the tablature world.
 
 After an amazing train ride between London and Lille of just 1h20 minutes (well, 20 minutes on the way back, if we consider timezone differences!), Ken Déguernel was kind enough to pick me at the train station, and together we made our way into campus, discussing common friends, the state of MIR around the world, what is the true meaning of creativity, and the distinctions between style and genre.
 

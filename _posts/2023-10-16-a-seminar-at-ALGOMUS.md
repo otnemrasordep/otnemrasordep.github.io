@@ -1,5 +1,6 @@
 ---
 layout: post
+title: a semianr at ALGOMUS
 ---
 
 Following the kindest of invitations by Alexandre D'Hooge, I made a trip to Lille, France, to give a seminar for the amazing [ALGOMUS](http://algomus.fr/) team. I doubt there are many places in the whole world where my area of research would resonate so well with: not only ALGOMUS focuses mainly on symbolic music, they also have a deeply rooted interest in the tablature world.

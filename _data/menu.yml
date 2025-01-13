@@ -17,8 +17,6 @@ entries:
         url: https://scholar.google.co.uk/citations?hl=en&user=NKcCUPYAAAAJ
       - title: '@soundcloud'
         url: https://soundcloud.com/umpedronosapato
-      - title: '@wavmagazine'
-        url: https://www.wavmagazine.net/autor/psarmento/  
            
   - title: who
     url: about

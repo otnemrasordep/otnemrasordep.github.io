@@ -5,13 +5,11 @@ entries:
   - title: where
     url: false
     entries:
-      #- title: 
-      #  url: false
       - title: '@email'
         url: mailto:pedro.pereira.sarmento@gmail.com 
       - title: '@github'
         url: https://github.com/otnemrasordep
-      - title: '[ @bluesky ](https://bsky.app/profile/umpedronosapato.bsky.social) / [ @twitter ](https://x.com/umpedronosapato)'
+      - title: '<a href="https://bsky.app/profile/umpedronosapato.bsky.social">@bluesky</a> / <a href="https://x.com/umpedronosapato">@twitter</a>'
         url: false
       - title: '@scholar'
         url: https://scholar.google.co.uk/citations?hl=en&user=NKcCUPYAAAAJ
